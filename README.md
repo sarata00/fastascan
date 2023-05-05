@@ -14,5 +14,3 @@ _In case it is a symlink, the number of sequences and length are not shown to av
 
 This small programme was developed as part of a project for the **Introduction to Algorithmics** course of the Master in Bioinformatics for Health Science at Universitat Pompeu Fabra.
 
-# Example of use
-
